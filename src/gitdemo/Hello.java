@@ -19,7 +19,10 @@ public class Hello {
 		else {
 			System.out.println("it is not a palindrome");
 		}
+		System.out.println("hello world");
 		
 	}
+	
+
 
 }
